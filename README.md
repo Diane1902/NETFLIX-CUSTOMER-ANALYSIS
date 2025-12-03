@@ -1,32 +1,49 @@
-# NETFLIX-CUSTOMER-ANALYSIS
-Exploring Netflix Data. this Project showcases strong data visualization, cleaning, and pivot-reporting skills transforming raw data into actionable business insights.
-PROJECT TITTLE: NETFLIX CUSTOMER ANALYSIS
-OVERVIEW: This project contains an interactive dashboard built using Excel to analyze sales performance.
-The goal of the dashboard is to help stakeholders quickly understand:
-*Subscription Types
-*Customer Rate
-*Churn Rate
-*Popular genre and devices
-*Key KPIs are used.
+📊 Project Title: Netflix Customer Analysis
+Overview
 
-Files in this Repository:
-*Data-	Contains sample cleaned dataset
-*Dashboard Overview- This Contain Dashboard Image 
-*README.md	Documentation for the project
+This project features an interactive Excel dashboard designed to analyze key aspects of Netflix customer behavior and performance.
+The goal is to provide stakeholders with quick insights into:
 
-Tools Used
-*Microsoft Excel for cleaning 
-*Excel formulas / PivotTables for analysis and dashboard design
+Subscription Types
 
-Dataset Description
-*A sample cleaned dataset is included for demonstration.
-*Raw/full data is not uploaded due to size limitations.
+Customer Rating
 
-How to Use the Dashboard
-*Download the dashboard file from the Dashboard Files folder.
-*Open in Excel.
-*Enable editing if prompted.
-*Interact with slicers, filters, and visuals.
+Churn Rate
 
-Author
+Popular Genres & Devices
+
+Key Performance Indicators (KPIs)
+
+📁 Files in This Repository
+
+Data/ – Contains the cleaned sample dataset
+
+Dashboard Overview/ – Contains an image preview of the dashboard
+
+README.md – Documentation for the project
+
+🛠 Tools Used
+
+Microsoft Excel – Data cleaning and transformation
+
+Excel Formulas & PivotTables – Analysis and dashboard creation
+
+📑 Dataset Description
+
+A sample cleaned dataset is included for demonstration purposes.
+
+The raw/full dataset is not uploaded due to size limitations.
+
+📘 How to Use the Dashboard
+
+Download the dashboard file from the Dashboard Files folder.
+
+Open it in Microsoft Excel.
+
+If prompted, click Enable Editing.
+
+Explore insights using slicers, filters, and interactive visuals.
+
+👤 Author
+
 Halimat O. Abu
